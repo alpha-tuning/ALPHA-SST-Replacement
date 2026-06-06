@@ -48,3 +48,22 @@ These designs remain available for:
 ## Disclaimer
 
 This repository is maintained for archival and reference purposes. Active development has ceased, and future ALPHA work is focused on modern real-time emulation platforms.
+
+## Educational Use & Required Attribution
+
+This repository is provided for **educational, historical, and reference purposes only**.
+
+The hardware designs, documentation, notes, and related files are shared so others can study legacy Honda OBD1 ECU flash replacement hardware, PLCC32-to-DIP adaptation, address line handling, bank switching, and chip programming workflows.
+
+If you use, modify, copy, redistribute, reference, document, build from, or create derivative work based on anything in this repository, attribution is required.
+
+Required attribution:
+
+**Original ALPHA hardware/design by ALPHA Tuning**  
+**https://github.com/alpha-tuning**
+
+Attribution must remain visible in any public repository, documentation, board files, video content, product listing, derivative hardware, or related project.
+
+You may not remove ALPHA attribution, claim this work as your own original design, or present derivative versions in a way that hides the original source.
+
+All materials are provided as-is with no warranty. You are responsible for verifying safety, compatibility, and proper use before applying these designs to any ECU, vehicle, programmer, or hardware setup.
